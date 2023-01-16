@@ -3,3 +3,6 @@
 
 
 this is my first "real" system. so it can be a little faulty
+
+
+uploaded it "compressed"
